@@ -52,5 +52,6 @@
   "Longest Substring Without Repeating Characters",
   "Palindromic Substrings",
   "Same Tree",
-  "Maximum Subarray"
+  "Maximum Subarray",
+  "Binary Tree Level Order Traversal"
 ]
