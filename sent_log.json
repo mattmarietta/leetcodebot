@@ -65,5 +65,6 @@
   "3Sum",
   "Jump Game",
   "Invert Binary Tree",
-  "Kth Smallest Element in a BST"
+  "Kth Smallest Element in a BST",
+  "Number of Connected Components in an Undirected Graph"
 ]
