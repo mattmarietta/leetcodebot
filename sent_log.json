@@ -30,5 +30,6 @@
   "Maximum Depth of Binary Tree",
   "Longest Substring Without Repeating Characters",
   "Same Tree",
-  "Reverse Bits"
+  "Reverse Bits",
+  "Construct Binary Tree from Preorder and Inorder Traversal"
 ]
